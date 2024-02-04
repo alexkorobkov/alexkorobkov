@@ -1,5 +1,7 @@
-![Profile_views](https://komarev.com/ghpvc/?username=alexkorobkov&color=green&style=for-the-badge)
+![Profile_views](https://komarev.com/ghpvc/?username=alexkorobkov&color=grey&style=for-the-badge)
+
  Hi, I’m Alex! :raised_hand:
+ 
 ### About me :mortar_board:
 - In testing since 2021; :computer:
 - Updated 350+ test cases; :floppy_disk:
