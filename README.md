@@ -1,14 +1,15 @@
-👋 Hi, I’m Alex!
+👋 Hi, I’m Alex! :raised_hand:
 ### About me :sunglasses:
-- В тестировании с 2021 года; :computer:
-- Актуализировал 350+ тест-кейсов; :floppy_disk:
-- Люблю спорт, музыку, юмор; :joy:
-- Занимаюсь альпинизмом,обожаю путешествовать; :airplane:
-- Играю в шахматы с сыном; :hourglass_flowing_sand:
-- Раз в неделю в баню,это святое!; :herb:
+- In testing since 2021; :computer:
+- Updated 350+ test cases; :floppy_disk:
+- I love sports, music, humor; :joy:
+- I do mountaineering, I love to travel; :airplane:
+- I play chess with my son; :hourglass_flowing_sand:
+- Once a week to the bathhouse, it’s sacred!; :herb:
   
 
-Мое кредо: Век живи,век учись!
+My credo: Live forever, learn forever!
+
 <!---
 alexkorobkov/alexkorobkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
