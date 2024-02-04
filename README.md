@@ -1,5 +1,5 @@
  Hi, I’m Alex! :raised_hand:
-### About me :sunglasses:
+### About me :mortar_board:
 - In testing since 2021; :computer:
 - Updated 350+ test cases; :floppy_disk:
 - I love sports, music, humor; :joy:
@@ -9,6 +9,8 @@
   
 
 My credo: Live forever, learn forever!
+
+###💻 Technology stack
 ![Header](https://github.com/alexkorobkov/alexkorobkov/blob/main/assets/video.gif)
 <!---
 alexkorobkov/alexkorobkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
