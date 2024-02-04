@@ -7,10 +7,10 @@
 - I play chess with my son; :hourglass_flowing_sand:
 - Once a week to the bathhouse, it’s sacred!; :herb:
   
-
+ 
 My credo: Live forever, learn forever!
 
-###💻 Technology stack
+### Technology stack :computer:
 ![Header](https://github.com/alexkorobkov/alexkorobkov/blob/main/assets/video.gif)
 <!---
 alexkorobkov/alexkorobkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
