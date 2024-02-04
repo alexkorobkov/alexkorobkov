@@ -11,7 +11,7 @@
 - Once a week to the bathhouse, it’s sacred!; :herb:
   
  
-My credo: Live forever, learn forever!
+## My credo: Live forever, learn forever!
 
 ### Technology stack :computer:
 ![Header](https://github.com/alexkorobkov/alexkorobkov/blob/main/assets/video.gif)
