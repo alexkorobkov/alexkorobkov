@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer+(manual%2Bauto))](https://git.io/typing-svg)
 
- Hi, I’m Alex! :raised_hand:
+ ## Hi, I’m Alex! :raised_hand:
  
 ### About me :mortar_board:
 - In testing since 2021; :computer:
