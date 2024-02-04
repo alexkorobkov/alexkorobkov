@@ -16,7 +16,9 @@
 ## My credo: Live forever, learn forever!
 
 ### Technology stack :computer:
-![Header](https://github.com/alexkorobkov/alexkorobkov/blob/main/assets/video.gif)
+
+[![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)](https://github.com/alexkorobkov/Postman-autotest)
+
 <!---
 alexkorobkov/alexkorobkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
