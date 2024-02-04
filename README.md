@@ -1,4 +1,4 @@
-👋 Hi, I’m Alex! :raised_hand:
+ Hi, I’m Alex! :raised_hand:
 ### About me :sunglasses:
 - In testing since 2021; :computer:
 - Updated 350+ test cases; :floppy_disk:
