@@ -38,6 +38,7 @@
 
 ![alexkorobkov GitHub stats](https://github-readme-stats.vercel.app/api?username=alexkorobkov&show_icons=true&theme=radical)
 
+[![alexkorobkov's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexkorobkov)](https://github.com/alexkorobkov/github-readme-activity-graph)
 
 <!---
 alexkorobkov/alexkorobkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
