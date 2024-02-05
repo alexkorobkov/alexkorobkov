@@ -36,11 +36,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-![alexkorobkov GitHub stats](https://github-readme-stats.vercel.app/api?username=alexkorobkov&show_icons=true&theme=radical)
+![alexkorobkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexkorobkov&show_icons=true&theme=radical)
 
-[![alexkorobkov's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexkorobkov)](https://github.com/alexkorobkov/github-readme-activity-graph)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 alexkorobkov/alexkorobkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
