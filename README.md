@@ -5,8 +5,6 @@
  ## Hi, I’m Alex! :raised_hand:
  
 ### About me :mortar_board:
-- In testing since 2021; :computer:
-- Updated 400+ test cases; :floppy_disk:
 - I love sports, music, humor; :joy:
 - I do mountaineering, I love to travel; :airplane:
 - I play chess with my son; :hourglass_flowing_sand:
